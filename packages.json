@@ -25,6 +25,20 @@
                     "continuousphp/phing-drush-task": "dev-master"
                 }
             }
+        },
+        "palantirnet/the-vagrant": {
+            "dev-master": {
+                "name": "palantirnet/the-vagrant",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-vagrant",
+                    "reference": "master"
+                },
+                "require": {
+                    "phing/phing": "^2.14"
+                }
+            }
         }
     }
 }
