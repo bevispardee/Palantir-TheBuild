@@ -7,7 +7,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/drupal-skeleton",
-                    "reference": "dev-drupal8"
+                    "reference": "drupal8"
                 }
             }
         },
