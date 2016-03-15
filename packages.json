@@ -15,6 +15,7 @@
             "dev-master": {
                 "name": "palantirnet/the-build",
                 "version": "dev-master",
+                "time": "2016-03-15 17:52:00",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
