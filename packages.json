@@ -24,6 +24,19 @@
                     "phing/phing": "^2.14",
                     "continuousphp/phing-drush-task": "dev-master"
                 }
+            },
+            "0.1.0": {
+                "name": "palantirnet/the-build",
+                "version": "0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-build",
+                    "reference": "0.1.0"
+                },
+                "require": {
+                    "phing/phing": "^2.14",
+                    "continuousphp/phing-drush-task": "dev-master"
+                }
             }
         },
         "palantirnet/the-vagrant": {
@@ -33,7 +46,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-vagrant",
-                    "reference": "master"
+                    "reference": "5dd5789b2b48c9de63ee07271df284424f7c7468"
+                },
+                "require": {
+                    "phing/phing": "^2.14"
+                }
+            },
+            "0.1.0": {
+                "name": "palantirnet/the-vagrant",
+                "version": "0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-vagrant",
+                    "reference": "0.1.0"
                 },
                 "require": {
                     "phing/phing": "^2.14"
