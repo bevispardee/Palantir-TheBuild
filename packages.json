@@ -38,6 +38,19 @@
                     "phing/phing": "^2.14",
                     "continuousphp/phing-drush-task": "dev-master"
                 }
+            },
+            "0.1.1": {
+                "name": "palantirnet/the-build",
+                "version": "0.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-build",
+                    "reference": "0.1.1"
+                },
+                "require": {
+                    "phing/phing": "^2.14",
+                    "continuousphp/phing-drush-task": "dev-master"
+                }
             }
         },
         "palantirnet/the-vagrant": {
