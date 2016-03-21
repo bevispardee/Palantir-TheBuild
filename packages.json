@@ -15,24 +15,24 @@
             "dev-master": {
                 "name": "palantirnet/the-build",
                 "version": "dev-master",
-                "time": "2016-03-21 12:25:51",
+                "time": "2016-03-21 15:22:00",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "079614c570836f9a65a31e2720b698bb2f832feb"
+                    "reference": "edd53ece4571fe6e3cc6d2a35e6b6abf03e489e5"
                 },
                 "require": {
                     "phing/phing": "^2.14",
                     "continuousphp/phing-drush-task": "dev-master"
                 }
             },
-            "0.1.0": {
+            "0.2.0": {
                 "name": "palantirnet/the-build",
-                "version": "0.1.0",
+                "version": "0.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "0.1.0"
+                    "reference": "0.2.0"
                 },
                 "require": {
                     "phing/phing": "^2.14",
@@ -46,6 +46,19 @@
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
                     "reference": "0.1.1"
+                },
+                "require": {
+                    "phing/phing": "^2.14",
+                    "continuousphp/phing-drush-task": "dev-master"
+                }
+            },
+            "0.1.0": {
+                "name": "palantirnet/the-build",
+                "version": "0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-build",
+                    "reference": "0.1.0"
                 },
                 "require": {
                     "phing/phing": "^2.14",
