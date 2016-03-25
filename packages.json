@@ -15,11 +15,11 @@
             "dev-master": {
                 "name": "palantirnet/the-build",
                 "version": "dev-master",
-                "time": "2016-03-25 16:59:20",
+                "time": "2016-03-25 17:53:15",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "1d3990a79b15a76fcf768647d7882842881eec43"
+                    "reference": "8c1d2771fa9f49a9b91bbe547335e83b18a1a551"
                 },
                 "require": {
                     "phing/phing": "^2.14",
@@ -73,7 +73,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-vagrant",
-                    "reference": "2ad9c0a88878ce1dd1906b7b809f9c379856c00e"
+                    "reference": "d6a9caf8f95882c832c773834d839271142cc8e8"
                 },
                 "require": {
                     "phing/phing": "^2.14"
