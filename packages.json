@@ -15,11 +15,11 @@
             "dev-master": {
                 "name": "palantirnet/the-build",
                 "version": "dev-master",
-                "time": "2016-03-24 18:40:52",
+                "time": "2016-03-25 16:33:29",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "72d520ce2765b71ce8cc06f0503d44f33dfa2bf7"
+                    "reference": "30ca4e52a240f33d75f658766c8fd4aa3ae237df"
                 },
                 "require": {
                     "phing/phing": "^2.14",
