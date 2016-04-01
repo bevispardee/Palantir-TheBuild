@@ -18,7 +18,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "15ba6a8681d9dc5460dc5b0d788042f1ded99355"
+                    "reference": "69e7924c566b528cb293040de686345499e8a6fc"
                 },
                 "require": {
                     "phing/phing": "^2.14",
