@@ -25,6 +25,19 @@
                     "continuousphp/phing-drush-task": "dev-master"
                 }
             },
+            "dev-refactor": {
+                "name": "palantirnet/the-build",
+                "version": "dev-refactor",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-build",
+                    "reference": "03ae74e6da8187ecddcec15e0fb04c0b189d6f56"
+                },
+                "require": {
+                    "phing/phing": "^2.14",
+                    "continuousphp/phing-drush-task": "dev-master"
+                }
+            },
             "0.2.0": {
                 "name": "palantirnet/the-build",
                 "version": "0.2.0",
