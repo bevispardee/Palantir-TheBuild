@@ -85,7 +85,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-vagrant",
-                    "reference": "d6a9caf8f95882c832c773834d839271142cc8e8"
+                    "reference": "01a35e378739cea3fa9f02353e6ef559bb66e6cb"
                 },
                 "require": {
                     "phing/phing": "^2.14"
