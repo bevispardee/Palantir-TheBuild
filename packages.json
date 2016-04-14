@@ -31,7 +31,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "22d4a9cab4dd51b4ab3fa30c20657d6bbfa6f162"
+                    "reference": "621c3f3b4c5466c3aecdcf45b0c416fb9751b1c8"
+                },
+                "require": {
+                    "phing/phing": "^2.14",
+                    "continuousphp/phing-drush-task": "dev-master"
+                }
+            },
+            "1.0.0-unstable": {
+                "name": "palantirnet/the-build",
+                "version": "1.0.0-unstable",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/palantirnet/the-build",
+                    "reference": "1.0.0-unstable"
                 },
                 "require": {
                     "phing/phing": "^2.14",
