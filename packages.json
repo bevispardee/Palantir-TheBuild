@@ -38,13 +38,13 @@
                     "continuousphp/phing-drush-task": "dev-master"
                 }
             },
-            "1.0.0-unstable": {
+            "1.0.0-alpha": {
                 "name": "palantirnet/the-build",
-                "version": "1.0.0-unstable",
+                "version": "1.0.0-alpha",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/palantirnet/the-build",
-                    "reference": "1.0.0-unstable"
+                    "reference": "1.0.0-alpha"
                 },
                 "require": {
                     "phing/phing": "^2.14",
